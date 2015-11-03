@@ -1,0 +1,18 @@
+.logo_type {
+  margin: 30px 0 0 30px;
+  display: block;
+  position: absolute;
+}
+
+
+.header_wrapper {
+
+}
+
+
+
+body {
+  background-image: url("C:/Users/Максим/Desktopwall064-1366x768.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
